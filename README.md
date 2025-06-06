@@ -20,8 +20,7 @@ This project is a static **clone** of a website originally designed by [Abdul Sa
 
 ## 🎨 Original Design Credit
 
-All layout inspiration, color palette, and component structure are based on the original work of **Abdul Sajjad**.  
-You can view more of his work at:
+All layout inspiration, color palette, and component structure are based on the original work of **Abdul Sajjad**. 
 
 ---
 
