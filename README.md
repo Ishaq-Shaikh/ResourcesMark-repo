@@ -44,3 +44,9 @@ You can view more of his work at:
 ## 📬 Feedback
 
 Feel free to suggest improvements or request responsive support in future updates.
+
+---
+
+## 🎥 Live Demo
+
+- https://ishaq-shaikh.github.io/ResourcesMark-repo/
