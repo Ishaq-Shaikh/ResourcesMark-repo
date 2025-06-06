@@ -13,7 +13,7 @@ This project is a static **clone** of a website originally designed by [Abdul Sa
 
 - Static webpage structure
 - Hover effects and color transitions
-- Basic interactivity (if any)
+- Basic interactivity
 - Desktop-only layout
 
 ---
